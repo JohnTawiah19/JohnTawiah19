@@ -109,11 +109,11 @@ I am looking for opportunities to work on challenging projects and continue to d
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=johntawiah19&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=johntawiah19&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johntawiah19&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johntawiah19&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
 </td></tr></table>  
 
@@ -123,7 +123,7 @@ I am looking for opportunities to work on challenging projects and continue to d
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=johntawiah19&&style=flat-square)  
   
 
 <br/>  
