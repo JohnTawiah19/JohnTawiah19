@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jayquakez" target="blank"><img src="https://img.shields.io/twitter/follow/jayquakez?logo=twitter&style=for-the-badge" alt="jayquakez" /></a> </p>
 
-- 🔭 I’m currently working with [Kpilens](www.kpilens.com)
+- 🔭 I’m currently working with [Tecmie](www.tecmie.com)
 
 - 🌱 I’m currently learning **Nestjs,backend technologies**
 
