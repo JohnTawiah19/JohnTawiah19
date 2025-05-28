@@ -30,9 +30,6 @@ I am looking for opportunities to work on challenging projects and continue to d
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Odele](https://www.odele.io)  
-  
-
 - 🌱 I’m currently pursuing an MSc. Software Engineering  
   
 
