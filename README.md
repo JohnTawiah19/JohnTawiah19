@@ -12,8 +12,7 @@
 
 ## About Me
 
-Software Engineer with 3+ years of experience in full-stack development, specializing in JavaScript, TypeScript, React.js, Node.js, and ServiceNow. I'm passionate about building scalable applications, optimizing performance, and creating user-centric, efficient systems. Currently pursuing an MSc in Software Engineering at Tomas Bata University.
-
+Software Engineer with 3+ years of experience in full-stack development, specializing in JavaScript, TypeScript, React.js, Node.js, and ServiceNow. I'm passionate about building scalable applications, optimizing performance, and creating user-centric, efficient systems.
 <br/>
 
 
